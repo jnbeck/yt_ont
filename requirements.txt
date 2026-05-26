@@ -1,0 +1,16 @@
+# YouTube API
+google-api-python-client==2.149.0
+
+# LLM
+anthropic==0.40.0
+
+# Env / secrets
+python-dotenv==1.0.1
+
+# --- Install these later when building those components ---
+# chromadb==0.5.23          # needs C++ build tools
+# ollama==0.4.4
+# neo4j==5.26.0
+# streamlit==1.41.1
+# streamlit-folium==0.23.1
+# folium==0.18.0
