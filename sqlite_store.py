@@ -4,6 +4,9 @@ SQLite storage layer for raw and enriched comments.
 Tables:
   raw_comments      - comments exactly as fetched from YouTube
   enriched_comments - Claude classifications linked by comment_id
+  questions         - questions extracted from substantive comments
+  claims            - claims extracted from substantive comments
+  extraction_log    - tracks which comments have been through deep extraction
 """
 
 import json
@@ -47,8 +50,32 @@ def init_db(db_path: str) -> None:
                 processed_at     TEXT NOT NULL
             );
 
+            CREATE TABLE IF NOT EXISTS questions (
+                id           INTEGER PRIMARY KEY AUTOINCREMENT,
+                comment_id   TEXT NOT NULL,
+                video_id     TEXT NOT NULL,
+                text         TEXT NOT NULL,
+                is_implied   INTEGER DEFAULT 0
+            );
+
+            CREATE TABLE IF NOT EXISTS claims (
+                id           INTEGER PRIMARY KEY AUTOINCREMENT,
+                comment_id   TEXT NOT NULL,
+                video_id     TEXT NOT NULL,
+                text         TEXT NOT NULL,
+                claim_type   TEXT NOT NULL
+            );
+
+            CREATE TABLE IF NOT EXISTS extraction_log (
+                comment_id     TEXT PRIMARY KEY,
+                model_version  TEXT,
+                processed_at   TEXT NOT NULL
+            );
+
             CREATE INDEX IF NOT EXISTS idx_raw_video_id ON raw_comments(video_id);
             CREATE INDEX IF NOT EXISTS idx_enriched_stance ON enriched_comments(stance);
+            CREATE INDEX IF NOT EXISTS idx_questions_video ON questions(video_id);
+            CREATE INDEX IF NOT EXISTS idx_claims_video ON claims(video_id);
         """)
 
 
@@ -84,6 +111,41 @@ def get_unprocessed_comments(db_path: str) -> list[dict]:
             WHERE e.comment_id IS NULL
         """).fetchall()
     return [dict(row) for row in rows]
+
+
+def get_unextracted_comments(db_path: str) -> list[dict]:
+    """Return substantive comments that have not yet been through deep extraction."""
+    with get_conn(db_path) as conn:
+        rows = conn.execute("""
+            SELECT r.comment_id, r.video_id, r.text, r.like_count,
+                   e.stance, e.theological_tone
+            FROM raw_comments r
+            JOIN enriched_comments e ON r.comment_id = e.comment_id
+            LEFT JOIN extraction_log x ON r.comment_id = x.comment_id
+            WHERE e.is_substantive = 1
+              AND x.comment_id IS NULL
+        """).fetchall()
+    return [dict(row) for row in rows]
+
+
+def insert_extraction(db_path: str, comment_id: str, video_id: str,
+                      questions: list[dict], claims: list[dict], model_version: str) -> None:
+    now = datetime.now(timezone.utc).isoformat()
+    with get_conn(db_path) as conn:
+        for q in questions:
+            conn.execute(
+                "INSERT INTO questions (comment_id, video_id, text, is_implied) VALUES (?, ?, ?, ?)",
+                (comment_id, video_id, q["text"], 1 if q.get("is_implied") else 0),
+            )
+        for c in claims:
+            conn.execute(
+                "INSERT INTO claims (comment_id, video_id, text, claim_type) VALUES (?, ?, ?, ?)",
+                (comment_id, video_id, c["text"], c.get("claim_type", "neutral")),
+            )
+        conn.execute(
+            "INSERT OR REPLACE INTO extraction_log (comment_id, model_version, processed_at) VALUES (?, ?, ?)",
+            (comment_id, model_version, now),
+        )
 
 
 def insert_enriched_comment(db_path: str, comment_id: str, result: dict, model_version: str) -> None:
