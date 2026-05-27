@@ -21,9 +21,35 @@ load_dotenv()
 
 client = anthropic.Anthropic(api_key=os.environ["ANTHROPIC_API_KEY"])
 
+TOPICS = [
+    "Jaredites",
+    "Chronology",
+    "Language",
+    "People",
+    "Magic Art",
+    "Narrow Neck of Land",
+    "Narrow Strip of Wilderness",
+    "Land of Nephi",
+    "Cumorah",
+    "Plants and Minerals",
+    "Ecology",
+    "Records",
+    "Land of Many Waters",
+    "Destructions",
+    "New Jerusalem",
+    "Battles (Movements)",
+    "Moroni's Description (Alma 22)",
+    "Mount Antipas",
+    "Temples",
+    "Structures",
+    "Belongings",
+    "Reckoning",
+    "none",
+]
+
 SYSTEM_PROMPT = """You are an expert at analyzing YouTube comments on a podcast about
 Book of Mormon geography. The host proposes that Book of Mormon events took place in
-the Great Lakes / Heartland region of North America (not Mesoamerica or Baja California).
+the Baja California region of North America (not Mesoamerica or the Heartland/Great Lakes).
 
 LDS terminology glossary:
 - Nephites / Lamanites: peoples described in the Book of Mormon
@@ -34,6 +60,9 @@ LDS terminology glossary:
 - Iron rod / tree of life: symbols from Lehi's vision
 - Testimony: personal spiritual witness of LDS doctrine
 - Joseph Smith: founder of the LDS church
+- Hagoth: Book of Mormon shipbuilder
+- Jaredites: earlier people group who came to the Americas before Lehi
+- Zarahemla: major Nephite city in the Book of Mormon
 
 Classify the comment using ONLY these values:
 
@@ -55,14 +84,26 @@ is_substantive (true/false):
   true if the comment contains a question, claim, geographic reference,
   scripture citation, or meaningful argument. false for pleasantries only.
 
+topics (list of 1-2 from this exact list, or ["none"] if no topic applies):
+  Jaredites, Chronology, Language, People, Magic Art, Narrow Neck of Land,
+  Narrow Strip of Wilderness, Land of Nephi, Cumorah, Plants and Minerals,
+  Ecology, Records, Land of Many Waters, Destructions, New Jerusalem,
+  Battles (Movements), Moroni's Description (Alma 22), Mount Antipas,
+  Temples, Structures, Belongings, Reckoning, none
+
+  Note on "Records": use this only when the comment discusses the scriptural
+  records kept by Book of Mormon prophets — e.g. the Plates of Nephi, Brass Plates,
+  Gold Plates, or the abridgment process. Do NOT use it for generic mentions of
+  historical records or documentation.
+
 Return JSON only, no explanation:
-{"stance": "...", "theological_tone": "...", "is_substantive": true/false, "confidence": 0.0-1.0, "one_line_reason": "..."}"""
+{"stance": "...", "theological_tone": "...", "is_substantive": true/false, "topics": ["...", "..."], "confidence": 0.0-1.0, "one_line_reason": "..."}"""
 
 
 def classify(comment_text: str) -> dict:
     response = client.messages.create(
         model="claude-haiku-4-5-20251001",
-        max_tokens=256,
+        max_tokens=384,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": f"Comment: {comment_text}"}],
     )
@@ -88,14 +129,15 @@ def pick_sample(comments: list[dict], n: int = 20) -> list[dict]:
 
 
 def print_results(results: list[dict]) -> None:
-    divider = "-" * 100
+    divider = "-" * 110
     print(divider)
-    print(f"{'#':<3}  {'STANCE':<18} {'TONE':<14} {'SUB':<5} {'CONF':<6}  TEXT / REASON")
+    print(f"{'#':<3}  {'STANCE':<18} {'TONE':<14} {'SUB':<5} {'CONF':<6}  {'TOPICS':<35}  TEXT")
     print(divider)
     for i, r in enumerate(results, 1):
-        text_preview = textwrap.shorten(r["text"], width=55, placeholder="...")
+        text_preview = textwrap.shorten(r["text"], width=45, placeholder="...")
+        topics_str = ", ".join(r.get("topics", ["none"]))
         label = f"{r['stance']:<18} {r['theological_tone']:<14} {'Y' if r['is_substantive'] else 'N':<5} {r['confidence']:.2f}"
-        print(f"{i:<3}  {label}  {text_preview}")
+        print(f"{i:<3}  {label}  {topics_str:<35}  {text_preview}")
         print(f"     reason: {r['one_line_reason']}")
         print()
     print(divider)

@@ -8,131 +8,414 @@
     "like_count": 0,
     "published_at": "2026-05-26T03:29:18Z",
     "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Records"
+    ],
+    "confidence": 0.72,
+    "one_line_reason": "Commenter asks practical question about scripture publication accuracy and footnote corrections, suggesting awareness of existing errors in scriptural records without hostility."
+  },
+  {
+    "comment_id": "UgwphooME2TO0Ces9a94AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I find what you talk about as to the location of The Book of Mormon very interesting but I think what’s more important is that it happened and that the Book of Mormon is true regardless of the location. Keep up the good work",
+    "author_channel_id": "UCW0zCIRQkQkqlf6iMp1qAZQ",
+    "like_count": 0,
+    "published_at": "2026-05-19T06:10:25Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "devotional",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Expresses faith in Book of Mormon truth while engaging with the geography question; offers encouragement with testimony-like framing about the primacy of belief over location."
+  },
+  {
+    "comment_id": "Ugwxrqu4D7wgCvua0pV4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Ask his if thus was the work of Seminary students seeking an idea to get attention but are not really seriously",
+    "author_channel_id": "UCVYAqGolCvDTEvI1U0stUhQ",
+    "like_count": 0,
+    "published_at": "2026-05-05T02:33:37Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.72,
+    "one_line_reason": "Commenter questions the credibility and motivation of the host's theory, suggesting it may be attention-seeking rather than serious scholarship."
+  },
+  {
+    "comment_id": "UgwzwZyeyX1AjAKunO14AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Peninsula! Yucatan. It's a common knowledge that the best honey comes from there. Deret!",
+    "author_channel_id": "UCXnYRVWIJjEhFsxKwabxY7w",
+    "like_count": 0,
+    "published_at": "2026-04-30T15:48:44Z",
+    "reply_count": 0,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Comment appears to be off-topic or nonsensical with no substantive engagement with geography theory or LDS doctrine; mentions Yucatan but without meaningful argument."
+  },
+  {
+    "comment_id": "UgyR7Xe5y31VsEwKgH94AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The simplest answer is that it didn’t happen. That’s what all credible research points to. I believe that the church is going to start pivoting away from the “translation” story and start referring to it as an “inspired” collection of faith promoting stories.",
+    "author_channel_id": "UCsqsf-apLS9Hkukf6k_aqnA",
+    "like_count": 0,
+    "published_at": "2026-04-25T12:56:10Z",
+    "reply_count": 1,
+    "stance": "hostile",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Dismisses Book of Mormon historicity entirely, cites 'credible research' as opposing it, and predicts the church will abandon its truth claims—adversarial framing without engagement with the host's specific theory."
+  },
+  {
+    "comment_id": "UgzDh2jhxjXtp2WOryl4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "This has been my favorite version of the Book of Mormon. So fun to hear the back story. David, thank you (and dad and others) for all your work.",
+    "author_channel_id": "UCeyP-UXznVliickHxhYn_XA",
+    "like_count": 3,
+    "published_at": "2026-04-21T23:07:07Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "devotional",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Expresses gratitude and appreciation for the host's work; no substantive geographic or theological argument, typical fan appreciation comment."
+  },
+  {
+    "comment_id": "UgyqJJfig0M3FuMJlXR4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Fascinating,  thank you 😊",
+    "author_channel_id": "UCrMXP-oK2r9nyUQfeGnOTIg",
+    "like_count": 0,
+    "published_at": "2026-04-18T19:14:45Z",
+    "reply_count": 0,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Pleasantry expressing appreciation without substantive content or engagement with the theory."
+  },
+  {
+    "comment_id": "UgyN51xQUR3SbxU0vQJ4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I'm confused, how did Lehi and family cross to baha California from Oman without hitting  other island and Australia?  I always assumed it would be hard to go tge tge east coast of America,  let alone the west coast.",
+    "author_channel_id": "UC51nw1GPK9F70XBPTH8t0GQ",
+    "like_count": 0,
+    "published_at": "2026-04-14T23:59:10Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Commenter raises legitimate geographic/navigational objections to the Baja California theory without hostility; seeks clarification on transatlantic voyage feasibility."
+  },
+  {
+    "comment_id": "UgyaZskVvRMOHDCQg3x4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "they could have been naturally changing the seeds so they will grow in America",
+    "author_channel_id": "UCMq841Q0OwUpq-wh0XaP0gw",
+    "like_count": 0,
+    "published_at": "2026-04-13T00:51:20Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "neutral",
+    "is_substantive": true,
+    "topics": [
+      "Plants and Minerals"
+    ],
+    "confidence": 0.75,
+    "one_line_reason": "Offers a naturalistic explanation for how Old World plants could have adapted to the Americas, engaging with the agricultural/ecology aspects of the geography theory."
+  },
+  {
+    "comment_id": "UgysvIRAHx3zEV3qGPZ4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Your version of the Book of Mormon is very useful. Your geography model is interesting but not convincing. The text does not require there be a peninsula type geography. If Lehi and Co landed in the area north of present Guatamala City, the pre-existing major population in that region could serve as the reason the Nephite and Lamanite are moving in a northerly direction. If you need a climate sufficient for the seed they would have, you can find that in Mesoamerica.\nPlus, Baja doesn't have sufficient evidence of pre-columbian civilizations consistent with the text. Mesoamerica is chock-full of them; so many, they haven't all been investigated.\nAnd... the river Sidon.... 🎤.\nAnd Biblically speaking... we are on the isles of the sea. Any landfall away from the biblical landscape are isles.\nHelaman 3 mention of North and south seas. This fits emigration from Mesoamerica into the continental US area.\nSeeds? Winds and other transoceanic forces or migrations. And supposition built on plant DNA are weak at best. DNA analysis in any form is built on a lot of assumptions.",
+    "author_channel_id": "UCBNvvXYXjKbQ2U-twWMZUPw",
+    "like_count": 1,
+    "published_at": "2026-04-11T16:58:41Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Narrow Neck of Land",
+      "People",
+      "Plants and Minerals",
+      "Moroni's Description (Alma 22)"
+    ],
+    "confidence": 0.87,
+    "one_line_reason": "Respectful but substantive critique of the Baja model using geographic, textual, and archaeological counterarguments favoring Mesoamerica; engages with specific Book of Mormon details (Sidon, Helaman 3, seeds) without hostility."
+  },
+  {
+    "comment_id": "UgzqpU8fWQ0iHoFJ9Xl4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The book of Moron has as much Truth as a the Quran.",
+    "author_channel_id": "UCDkuuylXVsZT3_fq5Fm8q4g",
+    "like_count": 0,
+    "published_at": "2026-04-09T00:14:22Z",
+    "reply_count": 0,
+    "stance": "hostile",
+    "theological_tone": "critical",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Dismissive comparison equating Book of Mormon to Quran; hostile tone with misspelling ('Moron'); no substantive geographic or theological engagement."
+  },
+  {
+    "comment_id": "UgxDPFU1cqHMl9LX2vx4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "28:50 while the phrase \"land eastward\" and \"land westward\" do not appear in the text, you will find 1) an east wilderness in the land southward among the Nephites mentioned multiple times in Alma 25 and Alma 50 and 2) journeys that head eastward into different lands among the Jaredites in the land northward in Ether 14:26 and Ether 9:3",
+    "author_channel_id": "UC-NSt1FllqS2AmlXhkon8VA",
+    "like_count": 0,
+    "published_at": "2026-04-06T20:06:30Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Jaredites",
+      "Moroni's Description (Alma 22)"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Commenter provides specific scripture citations to challenge the host's claim about directional language, demonstrating textual engagement without hostility."
+  },
+  {
+    "comment_id": "Ugx4S8s3xQMmaEj4Bb54AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Ok",
+    "author_channel_id": "UCKhdCJLA4xA6P_IIeq6W65w",
+    "like_count": 0,
+    "published_at": "2026-04-05T00:08:16Z",
+    "reply_count": 0,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Minimal acknowledgment with no substantive content"
+  },
+  {
+    "comment_id": "UgwYjs-2gjanRF8erot4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "How come nobody talks about the fact that if the Book of Mormon took place down in Central America or even on the western United States that would make it where the Lord made Moroni walk clear across the country or walk from Central America all the way to future New York State to bury the plates and lug all that stuff with him. It makes no sense. Moroni was already in the area from the war and buried the plates nearby",
+    "author_channel_id": "UCYOtqO3og95awy3gFQzTSoA",
+    "like_count": 0,
+    "published_at": "2026-04-04T00:23:44Z",
+    "reply_count": 1,
+    "stance": "believer",
+    "theological_tone": "apologetic",
+    "is_substantive": true,
+    "topics": [
+      "Cumorah"
+    ],
+    "confidence": 0.87,
+    "one_line_reason": "Defends the Baja California theory by arguing it solves the logistical problem of Moroni transporting plates; uses faith-based reasoning (what 'makes sense' for divine action) to support the host's geographic position."
+  },
+  {
+    "comment_id": "Ugwl_hNWn-7eXfzn-8N4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Ok you guys this is amazing! I am from Arizona, and when I was in 4th grade we studied all about the whole entire State. I became very fascinated with studying the Navajo Indians and the Apaches. And there were the Hohokam People who came before them and had learned how to create waterways in the desert. I want you guys to study the Navajos and the Apaches lives because it reminded me so much of the Nephites and Lamanites, even as a 4th grader I could figure that out.  But I could never tell anybody about my thoughts because I didn't have any evidence! This might be some evidence about the Hohokam people and the Navajos and Apaches. Please remember the Navajo people have a very sacred ritual that they do in their sacred lodges. My daughter-in-law and her family are part  Navajo and Hispanic. Her grandmother has shared with me that the Navajo people seriously knew about sacred rituals and sacred rites. I honor these beautiful, wonderful people. You really truly need to study into the Navajo tribes and the Apache tribes and how they lived. They truly are a part of the House of Israel!\n\nAlso you would need to read the history of Jacob Hamlin who lived in St George Utah, and he was a missionary to the Indian tribes of Southern Utah down through the Grand canyon and he taught the Navajos that were down in the Grand canyon area. They said that three white men came to them who were holy men and they said that there would be white people come teach them about their Creator and that they should listen to these white men teach them the Gospel of Christ. These might have been the three Nephites. You have to read his life history book. You can go to St George and see his home and get his history book at the historical site right outside of St George.",
+    "author_channel_id": "UCOQgFu60gIX7XShCBMw2ioQ",
+    "like_count": 0,
+    "published_at": "2026-04-02T23:26:00Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "devotional",
+    "is_substantive": true,
+    "topics": [
+      "People"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Expresses faith in connecting Native American peoples (Navajo, Apache, Hohokam) to Book of Mormon narratives and references Jacob Hamlin's missionary work and three Nephites tradition with reverent tone."
+  },
+  {
+    "comment_id": "UgxBvU1RQDdGrmD3ZPV4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The fruit species were brought to Baja California by Jesuit missionaries in the late 1600's and early 1700's.  Jesuits had a network of missions and trade with the Middle East.  Jesuits were knowledgeable about climate and soil when it can to planting.  The Jesuits settled the west coast of the American continent to convert the Indians and to stay away from the French and Americans on the east coast.  There are extensive records of what the Jesuits did.  You are either uneducated, uninformed or lying.",
+    "author_channel_id": "UCd9PU4qdTVx2pbxgiOaJMaA",
+    "like_count": 0,
+    "published_at": "2026-04-01T23:43:36Z",
+    "reply_count": 0,
+    "stance": "hostile",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "Plants and Minerals"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Provides historical counterargument about Jesuit introduction of fruit species to Baja California; concludes with personal attacks on the host's credibility/knowledge."
+  },
+  {
+    "comment_id": "Ugwh8kfACIseY5s_riR4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The Mormons think that they can be gods AI IT",
+    "author_channel_id": "UCxmy9lZTQKJHP1HnmGpIErg",
+    "like_count": 0,
+    "published_at": "2026-04-01T10:45:53Z",
+    "reply_count": 0,
+    "stance": "hostile",
+    "theological_tone": "critical",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.75,
+    "one_line_reason": "Dismissive, fragmentary comment attacking LDS doctrine rather than engaging with geography argument; lacks coherent structure or substantive content."
+  },
+  {
+    "comment_id": "UgxXn0J8XzbpdI19fTp4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "if you people dig on the geography of the book of mormon it gets incredible",
+    "author_channel_id": "UCSRy-JLzCBFbWAZ_YuZk4zw",
+    "like_count": 0,
+    "published_at": "2026-03-31T06:30:20Z",
+    "reply_count": 1,
+    "stance": "believer",
+    "theological_tone": "devotional",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Enthusiastic endorsement of Book of Mormon geography study without specific claims or evidence, primarily an expression of excitement."
+  },
+  {
+    "comment_id": "UgwmpFthQsN9kS6UvF54AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I’m open to critique: I think the lakes to the north mentioned in the Book of Mormon were remnants of Lake Bonneville in the Great Basin.",
+    "author_channel_id": "UCT5ghVChj2IPxvTbDrODUIg",
+    "like_count": 0,
+    "published_at": "2026-03-30T09:37:33Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Land of Many Waters"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Proposes alternative geographic interpretation (Great Basin lakes vs. Baja) while remaining respectful and open to feedback; engages with specific Book of Mormon geography feature."
+  },
+  {
+    "comment_id": "UgxdcEu2XEDDthRztDN4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I really liked the discussion of the physical geography and movement of seeds. It reminded me of something I saw on my mission in Oregon. A lot of the little shops on the coast sold wooden items made of Myrtle wood. I was told that Myrtle wood only grows in Oregon and in Israel. Would that have any connection to this theory?",
+    "author_channel_id": "UCtfD6xyrEHBgHjz49EQ1IDQ",
+    "like_count": 0,
+    "published_at": "2026-03-29T22:26:01Z",
+    "reply_count": 0,
     "stance": "believer",
     "theological_tone": "questioning",
     "is_substantive": true,
-    "confidence": 0.85,
-    "one_line_reason": "Believer asking practical questions about scripture updates and corrections, suggesting engagement with official LDS materials"
-  },
-  {
-    "comment_id": "Ugxo_rF8_03hVTE9PZp4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Makes no sense what so ever.",
-    "author_channel_id": "UC4VqotHTzuzuFpEkiLHRIQw",
-    "like_count": 0,
-    "published_at": "2026-05-03T18:19:42Z",
-    "reply_count": 0,
-    "stance": "hostile",
-    "theological_tone": "critical",
-    "is_substantive": false,
-    "confidence": 0.75,
-    "one_line_reason": "Dismissive rejection without explanation or substantive engagement; appears adversarial but lacks enough detail for full confidence."
-  },
-  {
-    "comment_id": "UgyKocP9NBt7wy9wbjx4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Before we get too excited here, a ton of research has shown what elements MUST exist to qualify a land that comports with the many descriptions of Book of Mormon concepts. Sadly, this model satisfies none of the obvious indices. Regrettably, this is rank amateur theorizing without true academic research that rigorous science demands. \n\nSecondly, Lehi’s journey has been abundantly revelatory 25 years ago through researchers that chronicled every thing from Nahom, Bountiful, the Empty Quarter etc. unfortunately people watch social media detectives and not deep scholarly research that has been in video for nearly three decades.",
-    "author_channel_id": "UCwhhXAtceTIOYzugvtRY23w",
-    "like_count": 0,
-    "published_at": "2026-04-21T18:40:00Z",
-    "reply_count": 0,
-    "stance": "skeptic_academic",
-    "theological_tone": "critical",
-    "is_substantive": true,
-    "confidence": 0.92,
-    "one_line_reason": "Substantive critique claiming the Heartland theory lacks academic rigor and ignores established scholarly research on Lehi's journey (Nahom, Bountiful, Empty Quarter)."
-  },
-  {
-    "comment_id": "UgwtzFbBtI7BDwkSrNN4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Trying to defend the undefendable. Redeeming the unredeemable. This book is a counterfeit,  I have believed in it whole my life until  God opened my eyes.",
-    "author_channel_id": "UCUBUTVB-MPm_aFoCXunXDgg",
-    "like_count": 0,
-    "published_at": "2026-04-13T14:56:56Z",
-    "reply_count": 0,
-    "stance": "hostile",
-    "theological_tone": "critical",
-    "is_substantive": true,
-    "confidence": 0.92,
-    "one_line_reason": "Dismissive characterization of Book of Mormon as 'counterfeit' and 'undefendable'; claims former believer who now rejects it"
-  },
-  {
-    "comment_id": "UgzB_o8GOnSXUa6h3kd4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "I thought the same thing many years ago just makes sense",
-    "author_channel_id": "UCL8jZK_eeLJl4IJiC5ESU-w",
-    "like_count": 0,
-    "published_at": "2026-04-08T11:05:38Z",
-    "reply_count": 0,
-    "stance": "believer",
-    "theological_tone": "neutral",
-    "is_substantive": false,
-    "confidence": 0.85,
-    "one_line_reason": "Expresses agreement with the theory but lacks specific evidence, arguments, or substantive detail"
-  },
-  {
-    "comment_id": "UgzWoXtDPZ9cg0fil214AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "One interesting thing I found on the web site is that another location that has similar climate to Baja and the middle east is in South Africa.\n\nMaps Used to Feature South or East at the Top: For much of history, maps did not feature North at the top. Early Chinese maps frequently placed South at the top because it was considered a more desirable direction (sunny) compared to the dark, treacherous North. Medieval Christian maps frequently oriented maps with East at the top—towards the Garden of Eden—which is where the word \"oriented\" comes from.\n\nSummary\r\nThe actual North/South poles on Earth have not changed, but in human culture, the decision to put North at the top of a map is a relatively modern, mostly European convention that replaced earlier traditions that often prioritized East or South\n\nThe Red Sea in classical time;\nClassical Times: Greek and Roman geographers used the term (Red Sea) to refer to the Persian Gulf, the \"Indian Ocean,\" and the modern Red Sea region.",
-    "author_channel_id": "UClD8jmBVUl_HCnpjzhsLupg",
-    "like_count": 0,
-    "published_at": "2026-04-04T01:57:50Z",
-    "reply_count": 0,
-    "stance": "skeptic_academic",
-    "theological_tone": "neutral",
-    "is_substantive": true,
+    "topics": [
+      "Plants and Minerals"
+    ],
     "confidence": 0.82,
-    "one_line_reason": "Presents geographic and historical research (South Africa climate, map orientation history, classical geography terminology) as alternative evidence without hostility toward the host's theory."
+    "one_line_reason": "Commenter expresses interest in the host's theory and offers a potential geographic connection via plants (myrtle wood), combining personal mission experience with the Baja California framework."
   },
   {
-    "comment_id": "Ugws7at8Qp5fjSTW0Th4AaABAg",
+    "comment_id": "Ugx2L3F9eUhs1fXhp5F4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "I want this book",
-    "author_channel_id": "UCEZTbd6LubpFyRyuehtK7Qw",
+    "text": "The Peninsula of Florida is also a possibility.",
+    "author_channel_id": "UCLP-o3RadwStSgDPUcm6kkg",
     "like_count": 0,
-    "published_at": "2026-04-01T20:57:06Z",
-    "reply_count": 1,
-    "stance": "casual",
-    "theological_tone": "neutral",
-    "is_substantive": false,
-    "confidence": 0.95,
-    "one_line_reason": "Expression of interest in acquiring a book; no substantive engagement with geography theory or doctrine."
-  },
-  {
-    "comment_id": "Ugy3kMR0tGhIrtD85n94AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Cool episode!  This was so intriguing, informative and interesting!",
-    "author_channel_id": "UCLaHawHYyq5TZXIW_rxd0Gw",
-    "like_count": 2,
-    "published_at": "2026-03-30T15:31:58Z",
+    "published_at": "2026-03-29T15:26:22Z",
     "reply_count": 0,
-    "stance": "casual",
+    "stance": "skeptic_academic",
     "theological_tone": "neutral",
-    "is_substantive": false,
-    "confidence": 0.95,
-    "one_line_reason": "Generic praise with no substantive content, argument, or theological engagement"
+    "is_substantive": true,
+    "topics": [
+      "Narrow Neck of Land"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Proposes an alternative geographic location for Book of Mormon events with academic tone, implicitly questioning the host's Baja California theory."
   },
   {
-    "comment_id": "UgyE0Aes_v7iBTON2vt4AaABAg",
+    "comment_id": "UgymdOvzL81qUCX2m6l4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "Why do you have a skull on the bookshelf? Are you really into that symbolism.",
-    "author_channel_id": "UCn6fHKpeuob4FOIPXTxagFQ",
+    "text": "One thing missing here... The river Sidon.  No major river in Baja.  I found the seeds very interesting, but the the River Sidon popped into my mind because that is a feature that is so important in the Book of Mormon.",
+    "author_channel_id": "UCRGtrMmGCsp4hVKe1PPivCQ",
+    "like_count": 3,
+    "published_at": "2026-03-29T00:32:46Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Moroni's Description (Alma 22)"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Raises a specific geographic objection about the absence of a major river (Sidon) in Baja while acknowledging some elements of the theory; questions the fit without hostility."
+  },
+  {
+    "comment_id": "UgzMobOr7vmelgZ2Lwl4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Immediately I want to say “yeah but.”   Yeah but after the crucifixion land masses changed geography changed soil contents changed.  Perhaps.",
+    "author_channel_id": "UCPyIeFS56w5lkxd8YzjW37A",
     "like_count": 0,
-    "published_at": "2026-03-29T05:42:29Z",
+    "published_at": "2026-03-28T18:12:06Z",
     "reply_count": 0,
-    "stance": "casual",
-    "theological_tone": "neutral",
-    "is_substantive": false,
-    "confidence": 0.95,
-    "one_line_reason": "Off-topic personal observation about set decoration with no engagement with Book of Mormon geography content."
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Destructions"
+    ],
+    "confidence": 0.78,
+    "one_line_reason": "Commenter raises a substantive question about post-crucifixion geological changes affecting Book of Mormon geography, using skeptical framing ('yeah but') while acknowledging a possible mechanism."
   },
   {
     "comment_id": "Ugx0ZuPMqKEhV4b6kat4AaABAg",
@@ -146,128 +429,418 @@
     "stance": "believer",
     "theological_tone": "devotional",
     "is_substantive": true,
+    "topics": [
+      "none"
+    ],
     "confidence": 0.92,
-    "one_line_reason": "Expresses faith in the host's theory, gratitude for addressing her questions, and personal spiritual comfort with the proposed geography."
+    "one_line_reason": "Expresses faith in the host's theory, dismisses competing models (Mesoamerica/Heartland), and offers personal testimony of spiritual comfort with this new geographic framework."
   },
   {
-    "comment_id": "UgxxgZM_eTLII4UYqm54AaABAg",
+    "comment_id": "UgxqKR0QfFxwq9sG6GN4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "Really interesting. I do wonder about such an arid area supporting such large populations. Also, wonder how the gold plates end up on the other side of the continent.",
-    "author_channel_id": "UCEKv6dV3svtFuPTH4PkQ9Fw",
-    "like_count": 2,
-    "published_at": "2026-03-26T22:04:37Z",
-    "reply_count": 1,
-    "stance": "skeptic_academic",
-    "theological_tone": "questioning",
-    "is_substantive": true,
-    "confidence": 0.85,
-    "one_line_reason": "Raises two legitimate geographic/logistical questions about population capacity in arid regions and the physical transportation of the gold plates, showing engaged but doubtful analysis."
-  },
-  {
-    "comment_id": "Ugx3vNuasKgwUxAU-AF4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Very interesting - could all of these findings apply to Florida?",
-    "author_channel_id": "UCn4_M3Vbq-eY1Q1wZ7ReSQw",
-    "like_count": 7,
-    "published_at": "2026-03-25T20:31:14Z",
-    "reply_count": 2,
-    "stance": "skeptic_academic",
-    "theological_tone": "questioning",
-    "is_substantive": true,
-    "confidence": 0.85,
-    "one_line_reason": "Raises a geographic alternative hypothesis to the Heartland model with genuine inquiry"
-  },
-  {
-    "comment_id": "UgzpZDDwa9ZCIKGZhwd4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Could be Hagoth that brought the seeds there?",
-    "author_channel_id": "UC3UsLHh1cJuJV1KMQUe8Umw",
-    "like_count": 0,
-    "published_at": "2026-03-25T01:40:51Z",
-    "reply_count": 1,
-    "stance": "believer",
-    "theological_tone": "questioning",
-    "is_substantive": true,
-    "confidence": 0.85,
-    "one_line_reason": "References Book of Mormon figure (Hagoth) with a genuine inquiry about geographic/theological possibility, showing engaged belief"
-  },
-  {
-    "comment_id": "UgynrPIZ2vzhaayVChR4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Im not buying this. Its interesting. Baja is 88 to 125 miles across the water. It would be EASY to leave Baja and get to the main body of Mexico. You wouldn't be forced north only.\nNot a lot of lakes at the top of the peninsula.\nAnd the BofM doesn't explain crossing rugged mountains to get the west sea.",
-    "author_channel_id": "UCzrLw1-eDBc6J0428cYam4A",
-    "like_count": 0,
-    "published_at": "2026-03-24T17:16:30Z",
-    "reply_count": 0,
-    "stance": "skeptic_academic",
-    "theological_tone": "critical",
-    "is_substantive": true,
-    "confidence": 0.92,
-    "one_line_reason": "Presents geographic counterarguments to Baja California theory, citing water distances, topography, and scriptural interpretation without hostility."
-  },
-  {
-    "comment_id": "UgyGQv2Sd3XnqRagxct4AaABAg",
-    "video_id": "aIeBFtP7XZA",
-    "parent_id": null,
-    "text": "Loved this!",
-    "author_channel_id": "UCFrYWeIuNBf5TZgn5XdzOwg",
+    "text": "Awesome Podcast guys.",
+    "author_channel_id": "UCCs3I9iSjdrupRF9ybnFYaA",
     "like_count": 1,
-    "published_at": "2026-03-24T02:53:40Z",
+    "published_at": "2026-03-27T13:21:48Z",
     "reply_count": 0,
     "stance": "casual",
     "theological_tone": "neutral",
     "is_substantive": false,
+    "topics": [
+      "none"
+    ],
     "confidence": 0.95,
-    "one_line_reason": "Generic positive reaction with no substantive content, argument, or theological engagement."
+    "one_line_reason": "Generic praise with no substantive content, argument, or engagement with the theory."
   },
   {
-    "comment_id": "UgwOw9IXd05VdCHTGVZ4AaABAg",
+    "comment_id": "Ugz_aXfVnvdN2DiKWBx4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "\"Land of Many Waters\" - No water.",
-    "author_channel_id": "UC7IfONAPOKDLETXpLtlWW8w",
+    "text": "Are you sure that you were first service  missionary. I've been told by my grandfather that him and grandmother were first service missionaries in early days of world war two in the southern states mission.  ( Raymond M. And Mary Jensen.  Recently recognized at area Conference as such.",
+    "author_channel_id": "UC65SIcryJcjDx79E1wsQfpA",
     "like_count": 0,
-    "published_at": "2026-03-23T20:32:35Z",
+    "published_at": "2026-03-27T01:33:16Z",
+    "reply_count": 0,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Comment appears to be off-topic personal anecdote about missionary service history unrelated to Book of Mormon geography or the podcast's subject matter."
+  },
+  {
+    "comment_id": "Ugw5BOZlVr5Jp9D2ZON4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Is it possible to get a print of that map of the Baja Peninsula shown at the end of the video?",
+    "author_channel_id": "UCYMVTtCH1VtYnGP807vCwiQ",
+    "like_count": 0,
+    "published_at": "2026-03-26T17:09:51Z",
+    "reply_count": 0,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Simple request for a map print; no substantive engagement with the theory or doctrine."
+  },
+  {
+    "comment_id": "UgydsgTNvckO_QPGDgR4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I am curious to know if Dave Rosenthall is related to Lynn Rosenthall from Calgary, Alberta?",
+    "author_channel_id": "UCSrmyZITMAOK2a7abNXS5mQ",
+    "like_count": 0,
+    "published_at": "2026-03-26T02:46:35Z",
+    "reply_count": 1,
+    "stance": "casual",
+    "theological_tone": "neutral",
+    "is_substantive": false,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Personal question about the host's family connection; no substantive engagement with BoM geography or theology."
+  },
+  {
+    "comment_id": "UgzQITB-wl5aI1yOgkN4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "From the seed angle, and the narrow neck of land between 2 seas, big bodies of water angle, I can see why Baja, CA could be a prospective site for Book of Mormon lands.\n\nWas there mounds, temples, pyramids in Baja, CA?\n\nAlso the Aztecs, who were nowhere near Baja, CA, had Egyptian style pyramids, had Egyptian, Hebrew language in their Ute, Uto Aztecan language. And when the Aztecs saw the Cook, and the Spanish Conquistadors,  they said the \"THE WHITE GOD RETURNETH, COMES AGAIN\". And the Aztecs, like the Olmecs, Toltecs, Mayans, had, believed in Queztalcoatal, which is the story of Jesus visiting Nephites, Lamanites, Americas, twisted by the Lamanites, descendents of the Lamanites.\n\nAlso no prophets, apostles from the church have pointed to Baja, CA, like they have to other places, except that Baja, CA, is part of the Americas.\n\nI think that the model I believe in accommodates the Heartland, Mesoamerica, and the Baja, CA models.\n\nI think that Lehi landed in either the northernmost tip of South America, Panama, Costa Rica, Honduras, Central America.\n\nI think the narrow neck of land is Central America. I think the Olmecs, were the Nephites, and that the Nephites became one people with the Lamanites as the Mayans, Hopewell.\n\nThat is why the Hopewell, descendents of Mayans, and the descendents of Mayans, Hopewell, the Aztecs, had Egyptian, Hebrew in their language.\n\nThat is why they had Egyptian Style Pyramids. That is why Teotihuacan, had Book of Mormon murals, similar to the murals in Book of Mormon. And that is why they had Queztalcatal, this great white GOD(JESUS), that visited them, and that's why their descendents the Aztecs, called Cook the Great White God(Jesus), that was visiting them again.\n\nAnd I am pretty sure that in time, there will be found middle eastern seeds, etc, just like Baja, CA.\n\nI think the land north, that is the wasteland, is the great south west desert in parts of New Mexico, Nevada, Texas, Mexico, etc.\n\nI think that the Nephites kept going north, and that Zarahemla could be Baja, CA, an or Utah, an or Iowa, an or Ohio, an or Missouri, because of what Joeseph Smith, Apostles, have said.\n\nI think that either the Mulekites started in either Baja, CA, Utah, Iowa, Ohio, etc, or the Nephites migrated north to Guatemala, Yucatan, to Baja, CA, Utah, Iowa, Ohio, etc, chased by Lamanites.\n\nI think that Moroni, Nephites were chased by Lamanites from Baja, CA, Utah, Iowa, Ohio, etc, to Hill Cumorah, New York, where plates buried, revealed to Joseph Smith, and where the final great battle between the Nephites, Lamanites fought.\n\nThis model fits, accommodates the Mesoamerican, Heartland, Baja, CA models, and the Nephites, Lamanites were in, at, in all of the Mesoamerica, Heartland, Baja, CA places.\n\nIt's not a either, or, as all those models have pieces, parts of the truth, etc.\n\nFor me to believe, think that the Baja, CA model, was the RIGHT model, I would have to see the language of the Baja, CA tribes, have Egyptian, Hebrew in it, AND, Eygyptian Style Mounds, Pyramids, AND a Baja, CA Tribal belief that a White God(Jesus), visited them, in addtion to the seeds thing, and the Lama tribal name, etc.\n\nAlso the problems with the Baja, CA, and Heartland models, Mesoamerica models, is it does not account for the other models, and the truths, facts, etc, that would seem to validate the other models.\n\nOnly the model I am talking about, think, believe in, seems to be totally, completely valid, and also accounts for, validates the other models, that have truth, facts, that seem to validate, rhem, etc.\n\nThat's why more recent Prophets, Apostes have said things like BOTH the Heartland AND Mesoamerica, OR ALL of the Americas, etc.\n\nI think the Apostles, Prophet believe in the model I am talking about, think, believe in that's a combination of the other models.",
+    "author_channel_id": "UCFOARzWytmoFS3gs_yhK3VQ",
+    "like_count": 0,
+    "published_at": "2026-03-25T21:29:14Z",
+    "reply_count": 1,
+    "stance": "believer",
+    "theological_tone": "apologetic",
+    "is_substantive": true,
+    "topics": [
+      "Narrow Neck of Land",
+      "Language",
+      "Structures",
+      "People"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Commenter expresses faith in a synthetic Book of Mormon geography model combining multiple theories, citing linguistic/cultural evidence (Egyptian/Hebrew in Aztec language, pyramids, Quetzalcoatl as Jesus narrative) while questioning what would convince them of Baja CA specifically."
+  },
+  {
+    "comment_id": "UgzpX4xqhbsr_p8zm-F4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Baja is one of the places I've thought Hagoth might have sailed to.",
+    "author_channel_id": "UCoSA7fza7UWp2F3uaXNOXdw",
+    "like_count": 0,
+    "published_at": "2026-03-25T16:24:01Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "neutral",
+    "is_substantive": true,
+    "topics": [
+      "Hagoth"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Commenter agrees with geographic theory by suggesting Baja as plausible for Book of Mormon narrative, specifically Hagoth's voyages."
+  },
+  {
+    "comment_id": "UgxbwrqBLEjyABMbQap4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "So they traveled thousands of miles on land from Jerusalem and then crossed an ocean and then spent 1000 years on the Baja peninsula which averages 40 miles wide, then at the end magically went all the way to New York in Cumorah for the final battle? Sorry but no. \n\nLance I think has this figured out. Jonathan Neville, Rod and Wayne brought a lot of truth with the heartland model but it still didn’t quite line up. I think LanceWeaver probably has it right, incorporates the best of all these models. Have him on guys! \n\n https://youtu.be/ctzwcBFfC4o?si=Y4-WGN1zANy2Dk-k",
+    "author_channel_id": "UCHTx80bLkVmeiRKYOZJerBg",
+    "like_count": 0,
+    "published_at": "2026-03-25T04:33:22Z",
     "reply_count": 0,
     "stance": "skeptic_academic",
     "theological_tone": "critical",
     "is_substantive": true,
+    "topics": [
+      "Narrow Neck of Land",
+      "Cumorah"
+    ],
     "confidence": 0.85,
-    "one_line_reason": "Questions geographic fit by noting absence of water despite Book of Mormon description, presenting a factual challenge to the theory."
+    "one_line_reason": "Questions the geographic logistics of the Baja theory while acknowledging merit in other models; skeptical but not hostile, promotes alternative model for consideration."
   },
   {
-    "comment_id": "UgylbRrXWr_bXHj6m754AaABAg",
+    "comment_id": "UgyO0eWvVs96IcrR7TF4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "20:30 33 years ago I also typed the BOM through Mosiah. What a laborious process. My type speed is about 90 wpm and doing it almost daily for about 90 days got through Mosiah. Actually removed what I saw as redundancies and made the language more succinct and modernized. Really changed how I looked at the BOM. Still looking.",
-    "author_channel_id": "UC9yXEU9T268cpYctb9-oinA",
+    "text": "Very interesting. How does the Zelph mound and Cumorah fit into this model?",
+    "author_channel_id": "UCqn7-Nvlto881aOcRAQNOxw",
     "like_count": 0,
-    "published_at": "2026-03-23T15:43:31Z",
+    "published_at": "2026-03-25T00:57:34Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Cumorah"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Genuine geographic question about how two traditionally-located sites (Zelph mound and Hill Cumorah) integrate with the Baja California model; seeks clarification without hostility."
+  },
+  {
+    "comment_id": "UgwTJyG1TzH1Ms8xHbJ4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Major problems with this theory. Not only were the gold plates found in New York, but a whole library was there. There is no way Moroni was able to transport all those records across this nation.",
+    "author_channel_id": "UCsOVkkzKYwQXtCO_okDVKuw",
+    "like_count": 0,
+    "published_at": "2026-03-24T21:30:06Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "Records",
+      "Cumorah"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Raises a substantive logistical objection to the Baja theory based on the traditional New York location of the gold plates and records, challenging the feasibility of Moroni's travel with sacred materials."
+  },
+  {
+    "comment_id": "Ugxl51QJCmcH0NYCz414AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Baja california had the same topography and virtually the same climate 2000 years ago - mostly desert. \n\nI've seen this theory before, sorry don't buy it at all.",
+    "author_channel_id": "UC2FILxlstCc2QYuitSPmI7w",
+    "like_count": 2,
+    "published_at": "2026-03-24T18:24:54Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "Ecology"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Raises a substantive geographic/climate objection to the Baja theory without hostility; intellectual disagreement based on environmental evidence."
+  },
+  {
+    "comment_id": "UgyVLtnkf2WlpcKEt9x4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Another question…. If the people stayed around Baja Moroni would have gone so far to hide the plates. All of the other stuff makes sense though. Does he know what a typical migration would have been like? Without a boat and with proper animals horses, etc? Thanks for sharing this, loved it!",
+    "author_channel_id": "UCjEhp_GAPNHMZwdHlnSnW1g",
+    "like_count": 0,
+    "published_at": "2026-03-24T14:02:18Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Records",
+      "Battles (Movements)"
+    ],
+    "confidence": 0.82,
+    "one_line_reason": "Commenter accepts most of the host's theory but raises a specific geographic/logistical question about Moroni's plate-hiding behavior and migration patterns, expressing appreciation overall."
+  },
+  {
+    "comment_id": "Ugw9mCi3I-sqsahXsll4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "A firmer, not so soft understanding of geography, i.e. cardinal directions needs, to be built.    For instance, much of central Asian civilizations had their maps upside down.   So, going up the map, they headed to India, down, you headed to the Arctic.   Directions were also color coded.    Black was north, i.e. the Black sea, which was north of Turkey (Turks came out of central Asia).   The Red sea,  the Karakum desert, etc.    So, a very interesting presentation for certain, but a bit more knowledge would have been helpful.    You might just assume that whatever direction Nephi stated, might have meant something different to him, but since we believe the translation of the Book of Mormon was inspired, it would have come as directions that make sense to the Western mind.",
+    "author_channel_id": "UCfWyfBTmL9_OEEPpl5B8uTg",
+    "like_count": 0,
+    "published_at": "2026-03-24T05:00:19Z",
+    "reply_count": 1,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "Moroni's Description (Alma 22)"
+    ],
+    "confidence": 0.72,
+    "one_line_reason": "Commenter questions directional methodology and proposes alternative interpretive framework (ancient directional conventions) while acknowledging inspiration of translation—intellectual engagement without hostility."
+  },
+  {
+    "comment_id": "UgxkuEJN65wOyecQ6J94AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The Ojibwa people in the NE US have a written language pretty darn close to reformed Egyptian.",
+    "author_channel_id": "UCAYgnOJqunZuE39ccr4uEjA",
+    "like_count": 27,
+    "published_at": "2026-03-24T02:39:12Z",
+    "reply_count": 11,
+    "stance": "believer",
+    "theological_tone": "apologetic",
+    "is_substantive": true,
+    "topics": [
+      "Language"
+    ],
+    "confidence": 0.75,
+    "one_line_reason": "Offers a linguistic parallel to support Book of Mormon claims about reformed Egyptian script; belief-aligned without hostility."
+  },
+  {
+    "comment_id": "Ugz7o8YQs6UJFu5QCHR4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "There are a couple of interesting things related to Cahokia.\r\n\r\nFor those that have not heard of  Cahokia, it was the largest pre-Columbian Native American city north of Mexico, flourishing near modern-day St. Louis, Missouri, from roughly 700 to 1400 CE. At its peak (c. 1100 CE), it was a bustling, diverse metropolis of 10,000–20,000 people, featuring massive earthen mounds, complex social structures, and vast trade networks, serving as the cultural and political hub of the Mississippian culture. \r\n\r\nSomething  very  interesting related to the St Lois Temple.   the temple is close to the Cahokia Mound visitor site and major updates are being planned and will be completed around 2026.\r\n\r\nIn St. Louis, across the bridge, Collinsville, Illinois, is the Cahokia mounds site, which, is fascinating because the Cahokia mound visitor center and museum was supposed to be redone and re-opened a long long time ago now they will not reopen it until 2026 and they have made some new discoveries at the site… \r\n\r\nThere is also an old Indian temple site just across the river from Nauvoo.   Anyway, we know the Lamanites will have a part of the building of New Jerusalem.  Independence is only 3 1/2 hours west of St Louis.  Will the St Louis area be the center place for the Lamanites related to the establishment of New Jerusalem.  Will this vast Lamanite city that existed here during Book of Mormon times be reborn? ? ?",
+    "author_channel_id": "UCrbwZKY4sAjRopuoBk9vACg",
+    "like_count": 5,
+    "published_at": "2026-03-23T23:30:04Z",
     "reply_count": 0,
     "stance": "believer",
     "theological_tone": "devotional",
     "is_substantive": true,
+    "topics": [
+      "New Jerusalem",
+      "People"
+    ],
     "confidence": 0.85,
-    "one_line_reason": "Personal testimony of engaging deeply with Book of Mormon text through typing, expressing continued faith journey ('Still looking')"
+    "one_line_reason": "Expresses faith-based speculation connecting Cahokia archaeology to Book of Mormon geography and LDS doctrine about New Jerusalem and Lamanite involvement, using rhetorical questions to suggest prophetic fulfillment."
   },
   {
-    "comment_id": "Ugxvj64eJx2GXh0U3LJ4AaABAg",
+    "comment_id": "UgyTeVf0_D3LODPwy3Z4AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "can you guys please STOP interrupting your guest!!  Just when they are in the middle of saying something interesting, you guys interrupt them.  it's maddening!",
-    "author_channel_id": "UCND5HFhmvNAxvqYI8xLvPnA",
+    "text": "So Baja California is named after Queen Calafia, in 1510. Name sound a bit familiar? \nIf we assume Nephi s name came from a more Egyptian word, what about Ka?\nKa is known as the life force or spirit of a person which continues to exist after death. It requires the mummified body for its survival. The symbol for the ka is a pair of extended arms.",
+    "author_channel_id": "UCTxvAIgDB29WuJazC7XTqxw",
     "like_count": 0,
-    "published_at": "2026-03-23T05:54:07Z",
+    "published_at": "2026-03-23T21:25:54Z",
+    "reply_count": 1,
+    "stance": "believer",
+    "theological_tone": "apologetic",
+    "is_substantive": true,
+    "topics": [
+      "Language"
+    ],
+    "confidence": 0.78,
+    "one_line_reason": "Proposes etymological connection between 'Calafia'/'Ka' and Book of Mormon names, suggesting Egyptian linguistic roots support for the Baja location theory."
+  },
+  {
+    "comment_id": "Ugxpfn5aOlairrB4OMl4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "It is likely the Nephites and Lamanites migrated over time.  There was certainly a great deal of running from and chasing each other.",
+    "author_channel_id": "UC66kYtnEs_JIup_Dm6tbx7A",
+    "like_count": 0,
+    "published_at": "2026-03-23T19:06:26Z",
     "reply_count": 0,
     "stance": "casual",
     "theological_tone": "neutral",
-    "is_substantive": false,
+    "is_substantive": true,
+    "topics": [
+      "Battles (Movements)"
+    ],
+    "confidence": 0.75,
+    "one_line_reason": "Makes a general observation about Book of Mormon migration patterns without engaging substantively with the Baja California theory or providing specific evidence/counterargument."
+  },
+  {
+    "comment_id": "UgxIwjNamtkmsq0V0S14AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "The only issue with this is that Baja California lacks the stone/dirt pyramids, ruins, and monumental cities found in Central Mexico or the American Heartland. In 2 Nephi chapter 5, Nephi builds a temple patterned after the manner of Solomon’s temple. Based on this model, this temple would have been built in the northern part of Baja CA or in Southern CA, US. There are no such ruins. Also, there is no river Sidon, no land northward with many lakes, no cities built out of concrete, etc. If you remove his seed argument from the equation, I would say the geography aligns more with the land between Florida and New York than it does with Baja CA.",
+    "author_channel_id": "UCmhe9MfYDISPTxVeNIVDqLw",
+    "like_count": 0,
+    "published_at": "2026-03-23T16:57:45Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "Structures",
+      "Land of Many Waters",
+      "Narrow Neck of Land"
+    ],
     "confidence": 0.92,
-    "one_line_reason": "Podcast production criticism unrelated to Book of Mormon geography content or doctrine"
+    "one_line_reason": "Presents archaeological and geographic objections to the Baja California theory with specific scriptural references (2 Nephi 5), citing missing evidence (temples, Sidon river, lakes, ruins) and comparing it unfavorably to alternative theories."
+  },
+  {
+    "comment_id": "UgxLzDk4UU4M_ViA5-Z4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "I don't like the limiting elements of any of the models so far...I love how they got to the point on the Baja Peninsula it fits with a lot of oral traditions I've heard but those traditions include journey much further noth into the Continental US... This fits well with the Dene(Navajo) customs",
+    "author_channel_id": "UC1LLOtDqGdPra6iiVze9Fzw",
+    "like_count": 1,
+    "published_at": "2026-03-23T15:40:49Z",
+    "reply_count": 0,
+    "stance": "believer",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "People"
+    ],
+    "confidence": 0.82,
+    "one_line_reason": "Expresses appreciation for Baja theory while raising concerns about geographic scope; invokes indigenous oral traditions and cultural connections to support broader framework."
+  },
+  {
+    "comment_id": "UgyEC88mMXeWB2D6rIB4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "If it did, it wouldn’t be hidden in a YouTube video, but be highlighted by the church as loudly as possible.",
+    "author_channel_id": "UCEd4H91JzYgsTWnoZ2Ig1dw",
+    "like_count": 0,
+    "published_at": "2026-03-23T12:56:41Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.85,
+    "one_line_reason": "Raises a logical/institutional argument about why the LDS church wouldn't promote this theory if it were valid, implying skepticism without hostility."
+  },
+  {
+    "comment_id": "UgwJ6f6b_UOId4FAxX54AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "How did they get there in the first place?",
+    "author_channel_id": "UCDssHRAoEGO7kLBVQ06SC7Q",
+    "like_count": 1,
+    "published_at": "2026-03-23T06:46:16Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "questioning",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.75,
+    "one_line_reason": "Genuine inquiry about initial settlement/migration without hostility; substantive but not tied to specific geographic details"
+  },
+  {
+    "comment_id": "UgxJWZGmvW-BjA7PUmJ4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Interesting theory and I’d agree with him on the importance of latitude with regard to seeds. Wayne May and Rod Meldrum both pointed out the same thing. But Baja? That’s a long way from the heartland area to have to travel. And the DNA evidence presented by both Wayne and Rod have the Lehites landing around the panhandle of Florida which is still within a reasonable latitude for them to plant their seeds and the DNA travels north from there matching the Book of Mormon timelines, also meeting the Mulekites in the north where the Lord even identified Zarahemla. We know the Lamanites moved westward, it’s not improbable that maybe some of them eventually moved down the Baja peninsula with the seeds or even more likely traded with natives who took the seeds down to Baja. My thoughts, but still interesting presentation. Sticking with the heartland model 😉",
+    "author_channel_id": "UCJHlm5lVmgGOJOXLc2Q6R9w",
+    "like_count": 57,
+    "published_at": "2026-03-23T04:53:27Z",
+    "reply_count": 27,
+    "stance": "skeptic_academic",
+    "theological_tone": "neutral",
+    "is_substantive": true,
+    "topics": [
+      "Chronology",
+      "Plants and Minerals",
+      "People"
+    ],
+    "confidence": 0.82,
+    "one_line_reason": "Respectfully questions the Baja theory by citing alternative geographic models (Heartland, Florida) with DNA and latitude evidence, while acknowledging the host's valid points about seeds."
+  },
+  {
+    "comment_id": "UgwwOPh1q62ShiY-TlJ4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "This seems to work for Florida as well",
+    "author_channel_id": "UCdBRGTHKuLE0Ot1IwVxAS7A",
+    "like_count": 2,
+    "published_at": "2026-03-23T03:47:19Z",
+    "reply_count": 3,
+    "stance": "skeptic_academic",
+    "theological_tone": "neutral",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.72,
+    "one_line_reason": "Commenter suggests an alternative geography (Florida) fits the model, implying either testing the theory's applicability or questioning its uniqueness to Baja California."
   },
   {
     "comment_id": "Ugw0Ik047lKR5ndJ4-94AaABAg",
@@ -281,22 +854,70 @@
     "stance": "skeptic_academic",
     "theological_tone": "critical",
     "is_substantive": true,
+    "topics": [
+      "People",
+      "Ecology"
+    ],
     "confidence": 0.92,
-    "one_line_reason": "Provides archaeological and anthropological evidence challenging the viability of Book of Mormon populations in Baja California through detailed demographic and cultural analysis."
+    "one_line_reason": "Presents archaeological and anthropological evidence showing Baja California had sparse, seminomadic hunter-gatherer populations without agriculture—incompatible with Book of Mormon narrative requiring established civilizations."
   },
   {
-    "comment_id": "UgzRg_KXa-K35bolEIN4AaABAg",
+    "comment_id": "UgwJZ6PQBFqzm0Z_o394AaABAg",
     "video_id": "aIeBFtP7XZA",
     "parent_id": null,
-    "text": "At counter 34:00 is it Florida? 😊",
-    "author_channel_id": "UCvlekbQArtaDpleB-5XQ2wQ",
-    "like_count": 1,
-    "published_at": "2026-03-23T00:02:56Z",
-    "reply_count": 1,
+    "text": "Wow, Hypercard.  That brings back memories.",
+    "author_channel_id": "UCO71cKqQCMsEh37sDwdkppw",
+    "like_count": 0,
+    "published_at": "2026-03-23T01:43:43Z",
+    "reply_count": 0,
     "stance": "casual",
     "theological_tone": "neutral",
     "is_substantive": false,
-    "confidence": 0.85,
-    "one_line_reason": "Brief question about a timestamp with emoji; lacks substantive geographic or theological engagement"
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.95,
+    "one_line_reason": "Nostalgic comment about Hypercard software with no substantive engagement with Book of Mormon geography or theology."
+  },
+  {
+    "comment_id": "UgyWGDoeMMK_cdFmgzp4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "Sad....   ***keyboard died***\n\nMeant to say that I've been following y'all pretty closely since you had around 500 subscribers.\n\nI've a suggestion regarding the physical elements of your quest...\n\nGet non-LDS scholars on your show to show data that confirms, reasonably, unique physical claims of the Book of Mormon.\n\nThis episode really isn't evidentiary (and you've had a few that were even counter-evidentiary).\n\nI'm fully aware of the LDS perspective that \"it all comes down to faith\", but the church makes extraordinary, and entirely physical claims (the physical claims of the Book of Mormon are the primes examples), that must be real, for the unique faith to have validity. IE, \"Moroni\" had to have been a real person, in a real civilization or he couldn't have appeared to Joseph, etc....\n\nSo get some subject matter experts on and have them present scientific data that supports the extraordinary physical claims of the Book of Mormon.\n\nThat doesn't prove the supernatural, of course. The physical aspects of the NT, for example are essentially proven, but everyone doesn't believe in the divine Jesus, obviously. But if there were no evidence for the NT, believing in the divine Jesus would be a blind faith.\n\nSame in the realm of Mormonism, and in particular, the Book of Mormon.",
+    "author_channel_id": "UCdDz0PsMpuVnK3HAgQrzMCQ",
+    "like_count": 2,
+    "published_at": "2026-03-23T00:36:59Z",
+    "reply_count": 0,
+    "stance": "skeptic_academic",
+    "theological_tone": "critical",
+    "is_substantive": true,
+    "topics": [
+      "none"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Constructive but skeptical critique requesting external scholarly validation of physical BOM claims; acknowledges faith but argues extraordinary claims require extraordinary evidence."
+  },
+  {
+    "comment_id": "UgzNbi9s7MSsoZCHYUV4AaABAg",
+    "video_id": "aIeBFtP7XZA",
+    "parent_id": null,
+    "text": "OMG, you base your whole theory on the seeds they brought and the soil, it said they were blessed, God help the seeds grow wherever they landed.   I severed my mission in Ohio, and On P days we would visit these ruins and all the carbon dating was exactly during the Book of Mormon time. I just wish I knew then what I know now, it would have helped in my mission effort. I was always told back then the BofM took place in Mezo America. \r\n  Now it's like really Honduras, El Salvador, Guatemala, is the promised land, the land choice above all other lands, the land of the New Jerusalem. Ether 13. A land where a great and mighty nation would immerge in the last days. Hmm sounds like North America.                                                                                                                                                  All those Munds we would visit on p.d. and those very large and deep trenches and Brums that went on for miles and mile, just like in Alma 49:  4 But behold, how great was their disappointment; for behold, the Nephites had dug up a a ridge of earth round about them, which was so high that the Lamanites could not cast their stones and their arrows at them that they might take effect, neither could they come upon them save it was by their place of entrance\n.     I really wish we were not told that the Book of Mormon took place in Mesa- America. Even when I was a young missionary it didn't make sense that Honduras, El Salvador Guatemala, etc. was the promise land, choice above all other lands? The cradle of humanity, the place of the \"New Jerusalem\" would be built on, the promise land. \r\nEther 13:1–12\r\n\r\n1.And now I, Moroni, proceed to finish my record concerning the destruction of the people of whom I have been writing. 2For behold, they rejected all the words of Ether; for he truly told them of all things, from the beginning of man; and that after the waters had receded from off the face of this land it became a choice land above all other lands, a chosen land of the Lord; wherefore the Lord would have that all men should serve him who dwell upon the face thereof;\r\n\r\n3And that it was the place of the a New Jerusalem, which should come down out of heaven, and the holy sanctuary of the Lord.\r\n\r\nDoesn't sound like Mesa America to me. We know from modern scripture where the New Jerusalem is. D&C84:\r\n\r\n2 Yea, the word of the Lord concerning his church, established in the last days for a restoration of his people, as he has spoken by the mouth of his prophets, and for the gathering of his saints to stand upon mount Zion, which shall be the city of New Jerusalem.\r\n\r\n3 Which city shall be a built, beginning at the temple lot, which is appointed by the finger of the Lord, in the western boundaries of the State of Missouri, and dedicated by the hand of Joseph Smith, Jun., and others with whom the Lord was well pleased.\r\n\r\nThat they would become a great and might nations above all other nations. Sounds more like the USA.  \r\n  We read how the gentiles would smite and drive the inhabitants of the nation out of their lands. I think that happened here in north America, right? We used to teach as young missionaries how Columbus discovered America and started the migration of the gentiles to America.\r\n\r\n \"And I looked and beheld a man among the Gentiles, who was separated from the seed of my brethren by the many waters; and I beheld the Spirit of God, that it came down and wrought upon the man; and he went forth upon the many waters, even unto the seed of my brethren, who were in the promised land.\"\r\n1 Nephi 13:12\r\nBut somehow the BofM took place in central America. \r\n\r\nNot to mention all the scriptures that tell where the BofM took place for example. D&C 64: 8 And thus you shall take your journey into the regions westward, unto the land of Missouri, unto the borders of the Lamanites. (see D&C 84:1-6)    (see D&C 125:3)  (see D&C 84:1-6) \r\n Christ Himself declared it to be on Book of Mormon lands (3 Nephi 20:22), both of which are absolutely located in North America. These accounts and their indications are not speculation based but historically documented.\r\n We read in Joseph own words while he was on Zions march quote: The whole of our journey, in the midst of so large a company of social honest men and sincere men, wandering over the plains of the Nephites, recounting [p. 57]occasionally the history of the Book of Mormon, roving over the mounds of that once beloved people of the Lord, picking up their skulls & their bones, as a proof of its divine authenticity, Joseph Smith Papers. \r\n  We have the testimony of modern prophets and apostle such as Elder Perry.\r\n“The United States is the promised land foretold in the Book of Mormon—a place where divine guidance directed inspired men to create the conditions necessary for the Restoration of the gospel of Jesus Christ.” Elder L. Tom Perry Ensign Dec. 2012\r\n\r\nThen you have letter 7 written by Oliver Cowdery and endorsed by Joseph Smith the prophet describing the \"Hill Cumorah\" where the plates were found by Joseph lead by the angle Moroni. Oliver describes how the very valley below the Hill Cumorah is where the final battles of the Jaredites and the Nephites took place.     \n The Book of Mormon and the D&C text itself tell where the BofM took place. I don't understand why this is so debated,",
+    "author_channel_id": "UC726xK8ijd6s0JKX3ItKgHA",
+    "like_count": 19,
+    "published_at": "2026-03-22T23:39:03Z",
+    "reply_count": 7,
+    "stance": "believer",
+    "theological_tone": "apologetic",
+    "is_substantive": true,
+    "topics": [
+      "Cumorah",
+      "Narrow Neck of Land",
+      "New Jerusalem",
+      "Battles (Movements)",
+      "Jaredites",
+      "Moroni's Description (Alma 22)"
+    ],
+    "confidence": 0.92,
+    "one_line_reason": "Long, detailed defense of Heartland/North American geography using scripture, missionary experience, and LDS authority citations—arguing against Mesoamerican model but not explicitly supporting Baja hypothesis"
   }
 ]
